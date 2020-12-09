@@ -31,7 +31,7 @@ namespace NyousNoSQL
             services.Configure<NyousDatabaseSettings>(
             Configuration.GetSection(nameof(NyousDatabaseSettings)));
 
-            services.AddSingleton<NyousDatabaseSettings>(sp =>
+            services.AddSingleton<INyousDatabaseSettings>(sp =>
             sp.GetRequiredService<IOptions<NyousDatabaseSettings>>().Value);
 
             services.AddSingleton<IEventosRepository, EventoRepository>();

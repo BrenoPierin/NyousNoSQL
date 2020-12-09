@@ -4789,19 +4789,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Masseria\\.nuget\\packages\\": {}
+    "C:\\Users\\fic\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Breno USA\\Senai 2 Semestre\\MongoDB - NoSQL\\NyousNoSQL\\NyousNoSQL.csproj",
+      "projectUniqueName": "C:\\Users\\fic\\Documents\\Edux - Breno\\NyousNoSQL\\NyousNoSQL.csproj",
       "projectName": "NyousNoSQL",
-      "projectPath": "C:\\Breno USA\\Senai 2 Semestre\\MongoDB - NoSQL\\NyousNoSQL\\NyousNoSQL.csproj",
-      "packagesPath": "C:\\Users\\Masseria\\.nuget\\packages\\",
-      "outputPath": "C:\\Breno USA\\Senai 2 Semestre\\MongoDB - NoSQL\\NyousNoSQL\\obj\\",
+      "projectPath": "C:\\Users\\fic\\Documents\\Edux - Breno\\NyousNoSQL\\NyousNoSQL.csproj",
+      "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fic\\Documents\\Edux - Breno\\NyousNoSQL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Masseria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
